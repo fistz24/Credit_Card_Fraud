@@ -4,7 +4,7 @@
 The purpose of this project is to detect fraud by comparing different Machine Learning models. 
 
 ### Analysisuse
-Scikit learn's train_test_split function was used to split 60% and 40% of the dataset into train and test set. 3 kinds of algorhitms were also used in the analysis, which include:
+Scikit Learn's train_test_split function was used to split 60% and 40% of the dataset into train and test set. 3 kinds of algorhitms were also used in the analysis, which include:
 1. Random Forest
 2. Logistic Regression
 3. SVM
